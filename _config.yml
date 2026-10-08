@@ -1,0 +1,10 @@
+title: Graeme Anderson
+email: graeme.anderson@email.com
+description: >-
+  Portfolio website for Graeme Anderson, a Cyber Security Engineering student at Iowa State University.
+baseurl: ""
+url: "https://shipwright14.github.io/gmander5_portfolio.github.io/"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
