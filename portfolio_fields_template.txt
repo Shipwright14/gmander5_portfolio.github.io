@@ -1,0 +1,108 @@
+{
+  "site": {
+    "pageTitle": "Graeme Anderson | ECpE Portfolio",
+    "metaDescription": "Iowa State University Cyber Security Engineering Portfolio for Graeme Anderson",
+    "brandName": "Graeme Anderson",
+    "headerNavigation": [
+      "About",
+      "Objective",
+      "Projects",
+      "Experience",
+      "Reflections",
+      "Contact"
+    ]
+  },
+  "personalInfo": {
+    "fullName": "Graeme Anderson",
+    "major": "Cyber Security Engineering",
+    "location": "Ames, IA",
+    "graduationYear": "May 2027",
+    "interests": "Infrastructure Cyber Defense, Operational Technology Security, Network Security, and Computer Architecture",
+    "schoolEmail": "gmander5@iastate.edu",
+    "personalEmail": "gmanderson05@gmail.com",
+    "linkedinUrl": "https://www.linkedin.com/in/graeme-anders/",
+    "githubUrl": "https://github.com/Shipwright14",
+    "resumeUrl": "docs/Resume.pdf",
+    "openToInternships": true
+  },
+  "hero": {
+    "eyebrow": "ECpE Portfolio",
+    "headline": "Learning all the time.",
+    "leadParagraph": "My name is Graeme Anderson, and I am an IT and Cyber Security Engineer with focuses on Network Security and IT Support. I have endeavored to keep learning throughout my life, and I am currently pursuing Network+ and Security+ certifications."
+  },
+  "about": {
+    "paragraph1": "My name is Graeme Anderson, I am a Cyber Security Engineer graduating from Iowa State University in May of 2027. I have interned in the Power Infrastructure industry and I am interested in Operational Technology Security, Network Security, and Computer Architecture.",
+    "paragraph2": "Using my skills to protect my fellow man is incredibly important to me, and infrastructure is the backbone of modern society. Protecting this infrastructure is one of the strongest ways that my skills can protect others."
+  },
+  "objective": "I am seeking positions where I will get to work with a variety of specialties, with a focus on Network Security and OT Security. I am a diligent and motivated worker with experiences learning and teaching concepts.",
+  "projects": [
+    {
+      "tag": "Senior Design",
+      "title": "Immersive Hardware Education Framework for AR/VR Devices",
+      "description": "The project seeks to create an interactive XR framework that helps students visualize common hardware and microarchitectural security issues in computers.",
+      "role": "Attack Researcher and Integration Engineer",
+      "skills": "microarchitectural attacks, Unity Engine, C#, computer architecture, ARM processor visualization, cybersecurity education",
+      "bigPicture": "This project creates an interactive XR tool for teaching microarchitectural security concepts in a way that is visual, accessible, and easier for students to understand than standard textbook explanations.",
+      "outcome": "In progress",
+      "supportingDocumentUrl": "resources/Project Description - sdmay27-04.pdf"
+    },
+    {
+      "tag": "Project 1",
+      "title": "CPRE 3810: Design of a RISC-V Hardware Pipelined Processor",
+      "description": "CPRE 3810 is structured around a term project where a team of two create 3 RISC-V architecture processors, a single-cycle, software-pipelined, and hardware-pipelined processor in VHDL.",
+      "role": "Computer Architecture Designer",
+      "skills": "VHDL, RISC-V, hardware design, computer architecture, processor modeling",
+      "tools": "VHDL, RISC-V Assembly, Computer Architecture"
+    },
+    {
+      "tag": "Project 2",
+      "title": "COMS 3090: Android Mobile Application",
+      "description": "For this class, I was in a team of 4 creating an Android application in Java. We created an app for the 'Hostage' party game, including Google Firebase login support, Google Maps GPS tracking, and chat communication.",
+      "role": "Back-end Developer",
+      "skills": "Java, Android development, Firebase, API integration, software engineering, Agile development",
+      "tools": "MySQL, Java, Git CI/CD Pipelines, Software Development, Agile Development"
+    },
+    {
+      "tag": "Project 3",
+      "title": "Enterprise Network Diagramming",
+      "description": "During my time in my internship, the primary project I worked on was mapping out and creating updated network diagrams for all member cooperatives under CIPCO. During this project, I was building the first comprehensive database of diagrams, and discovered several network issues that were audited and remedied.",
+      "role": "Primary Designer and Technician",
+      "skills": "Network reconnaissance, diagramming, design, and network auditing",
+      "tools": "Cisco FirePower, Cisco Switch CLI, Microsoft Excel, Power Query, and Visio"
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT and Business Intelligence Internship",
+      "organization": "Central Iowa Power Cooperative (CIPCO)",
+      "dates": "May 2026 - August 2026",
+      "description": "During my internship with CIPCO, I supported infrastructure documentation and network analysis work for member cooperatives. I created and updated network diagrams, identified reliability and security concerns, and helped build a more organized documentation system that improved operational awareness. This experience strengthened my understanding of utility networking, technical documentation, and communication with stakeholders.",
+      "dutiesAndProjects": "Network diagramming, infrastructure mapping, documentation review, and identifying network issues for remediation.",
+      "technicalSkills": "Cisco CLI, network auditing, diagramming, Excel, Power Query, Visio",
+      "softSkills": "Technical communication, problem solving, documentation, teamwork"
+    }
+  ],
+  "reflections": {
+    "generalEducation": "",
+    "cumulativeReflectionText": "My time at Iowa State has shaped me into an engineer who values planning, communication, and leadership. Through CPRE 3810, COMS 3090, and my role as a teaching assistant, I have grown in time management, project planning, and helping others understand technical concepts. I also developed through Cyber Defense Challenges by adapting quickly, prioritizing work, and documenting decisions under pressure. Looking ahead, I want to continue building my leadership and communication skills as I prepare for a career in cybersecurity.",
+    "cumulativeReflectionLink": "docs/Cumulative_Reflection.pdf",
+    "ethicsPaperText": "My ethics paper examined the Contec CMS8000 medical device vulnerability, highlighting the patient privacy and safety risks created by insecure medical technology. The case reinforced the importance of secure design, transparent disclosure, and responsible engineering practices when developing systems that impact human health.",
+    "ethicsPaperLink": "docs/Ethics_Paper.pdf",
+    "resumeSummary": "The resume highlights my technical coursework, internship experience, leadership roles, and project work in cybersecurity, networking, and computer architecture.",
+    "resumeLink": "docs/Resume.pdf"
+  },
+  "contact": {
+    "email": "gmander5@iastate.edu",
+    "linkedinLabel": "LinkedIn",
+    "linkedinUrl": "https://www.linkedin.com/in/graeme-anders/",
+    "githubLabel": "GitHub",
+    "githubUrl": "https://github.com/Shipwright14"
+  },
+  "courseChecklist": {
+    "generalEducationReflectionCompleted": false,
+    "cumulativeReflectionCompleted": true,
+    "ethicsPaperCompleted": true,
+    "resumeCompleted": true,
+    "notes": "General education reflection is still in progress."
+  }
+}
